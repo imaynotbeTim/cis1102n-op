@@ -5,6 +5,7 @@ import { Button, Menu, MenuItem } from '@mui/material';
 
 import {
   BrowserRouter as Router,
+  HashRouter,
   Route,
   Routes,
   Outlet,
@@ -39,7 +40,7 @@ const button = {
 function App() {
   return (
     <div style={{textAlign: 'center', }}>
-      <Router>
+      <HashRouter>
         <Routes>
           <Route path="/" element={<Layout />}>
             <Route index element={<Home />} />
@@ -53,7 +54,7 @@ function App() {
             <Route path="/ComputerComponentsAndOSs" element={<ComputerComponentsAndOSs />} />
           </Route>
         </Routes>
-      </Router>
+      </HashRouter>
       <Footer/>
     </div>
   );
