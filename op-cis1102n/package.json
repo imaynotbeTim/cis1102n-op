@@ -1,7 +1,7 @@
 {
   "name": "op-cis1102n",
   "version": "0.1.0",
-  "homepage": "https://imaynotbetim.github.io/cis1102n-op/",
+  "homepage": "https://imaynotbetim.github.io/cis1102n-op#/",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^2.8.1",
