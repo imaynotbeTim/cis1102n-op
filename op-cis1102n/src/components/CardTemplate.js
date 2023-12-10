@@ -33,7 +33,8 @@ const CardTemplate = (props) => {
                     </CardContent>
                     <CardActions sx={{ backgroundColor: '#f2f2f2' }}>
                         <CardContent>
-                            {props.desc}
+                            {props.desc1}<br></br><br></br>
+                            {props.desc2}
                         </CardContent>
                         <Button variant="contained" disableElevation sx={{ color: 'black', bgcolor: '#f2f2f2', }} onClick={toLink}>{props.button}</Button>
                     </CardActions>

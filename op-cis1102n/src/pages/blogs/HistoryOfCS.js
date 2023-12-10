@@ -47,7 +47,7 @@ const HistoryOfCS = () => {
     <>
       <Card
         title="History of computer science"
-        desc="test"
+        desc=""
       />
       <CardColapsable
         title="Computing Disciplines - The discipline of computer science is the body of knowledge 

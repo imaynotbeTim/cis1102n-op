@@ -46,6 +46,7 @@ const CardColapsable = (props) => {
                     </CardContent>
                     <CardActions sx={{ backgroundColor: '#f2f2f2' }}>
                         <CardContent>
+                            {props.description}
                         </CardContent>
                         <ExpandMore
                             expand={expanded}
