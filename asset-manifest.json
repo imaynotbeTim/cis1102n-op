@@ -1,15 +1,23 @@
 {
   "files": {
     "main.css": "/cis1102n-op/static/css/main.e6c13ad2.css",
-    "main.js": "/cis1102n-op/static/js/main.0490ec37.js",
+    "main.js": "/cis1102n-op/static/js/main.10df0ea4.js",
     "static/js/787.ab6439dc.chunk.js": "/cis1102n-op/static/js/787.ab6439dc.chunk.js",
+    "static/media/partsMobo.png": "/cis1102n-op/static/media/partsMobo.dfb4e82a1abefea82b72.png",
+    "static/media/expAndAdap.png": "/cis1102n-op/static/media/expAndAdap.8a20e4a0f034a79bafa0.png",
+    "static/media/partsSU.png": "/cis1102n-op/static/media/partsSU.7cb1b14bfcbdc90255f3.png",
+    "static/media/pgaVSlga.png": "/cis1102n-op/static/media/pgaVSlga.9422b4cee6f02b3d2796.png",
+    "static/media/typesMem.png": "/cis1102n-op/static/media/typesMem.b92856826db640fc8e1c.png",
+    "static/media/PSUC.png": "/cis1102n-op/static/media/PSUC.1e3285f81cf9fccc7e72.png",
+    "static/media/typesMobo.png": "/cis1102n-op/static/media/typesMobo.f7d3739f5e96607532d4.png",
+    "static/media/typesSU.png": "/cis1102n-op/static/media/typesSU.4673e5b71726e05c8ac7.png",
     "index.html": "/cis1102n-op/index.html",
     "main.e6c13ad2.css.map": "/cis1102n-op/static/css/main.e6c13ad2.css.map",
-    "main.0490ec37.js.map": "/cis1102n-op/static/js/main.0490ec37.js.map",
+    "main.10df0ea4.js.map": "/cis1102n-op/static/js/main.10df0ea4.js.map",
     "787.ab6439dc.chunk.js.map": "/cis1102n-op/static/js/787.ab6439dc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.0490ec37.js"
+    "static/js/main.10df0ea4.js"
   ]
 }
